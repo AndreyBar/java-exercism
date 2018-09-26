@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArmstrongNumbersTest" tests="8" skipped="7" failures="0" errors="0" timestamp="2018-09-25T13:10:40" hostname="mbp-andrii-2.innovecs.local" time="0.011">
+  <properties/>
+  <testcase name="threeDigitNumberIsNotArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sevenDigitNumberIsNotArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="noTwoDigitArmstrongNumbers" classname="ArmstrongNumbersTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="singleDigitsAreArmstrongNumbers" classname="ArmstrongNumbersTest" time="0.002"/>
+  <testcase name="sevenDigitNumberIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fourDigitNumberIsNotArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fourDigitNumberIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="threeDigitNumberIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
